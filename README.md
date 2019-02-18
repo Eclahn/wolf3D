@@ -13,3 +13,9 @@ Usage: make
 ### Running
 ~~~~
 ./wolf3d [path_to_map_file]
+~~~~
+### Controls
+- Arrow keys to move.
+- Hold 'X' and Left or Right to strafe.
+- Press 'M' to show or hide the minimap.
+- Press 'D' to activate or deactivate Darkness Mode.
